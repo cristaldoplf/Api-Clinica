@@ -16,21 +16,25 @@ public class OdontologoController {
 
 
 
+    @CrossOrigin
     @GetMapping("/odontologo/buscar/{id}") //le indicamos que la url va a ser el de la variable que van a ingresar.
     public Odontologo buscar(@PathVariable Long id) { //marcamos pathvariable para saber que esa sera la variable.
         return odontologoService.buscarOdontologo(id);
     }
 
+    @CrossOrigin
     @PostMapping("/odontologo/registrar")
     public Odontologo guardarOdontologo(@RequestBody Odontologo odontologo){
         return odontologoService.guardar(odontologo);
     }
 
+    @CrossOrigin
     @PutMapping("/odontologo/actualizar/{id}")
     public Odontologo actualizarOdontologo(@RequestBody Odontologo odontologo, @PathVariable Long id){
         return odontologoService.actualizarOdontologo(odontologo,id);
     }
 
+    @CrossOrigin
     @DeleteMapping("/odontologo/eliminar/{id}")//puede ser la misma url que mapping por que es diferente tipo de pedido (delete / get)
     public ResponseEntity eliminar(@PathVariable Long id){
         ResponseEntity response = null;
@@ -44,6 +48,7 @@ public class OdontologoController {
         return response;
     }
 
+    @CrossOrigin
     @GetMapping("/odontologos") //le indicamos que la url va a ser el de la variable que van a ingresar.
     public List<Odontologo> buscarTodos() { //marcamos pathvariable para saber que esa sera la variable.
         return odontologoService.buscarTodos();

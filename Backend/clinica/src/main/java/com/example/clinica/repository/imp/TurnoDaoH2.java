@@ -121,11 +121,6 @@ public class TurnoDaoH2 implements IDao<Turno> {
     }
 
     @Override
-    public Turno buscar(String email) {
-        return null;
-    }
-
-    @Override
     public Turno actualizar(Turno turno, Long id) {
         Connection connection = null;
         PreparedStatement preparedStatement = null;
@@ -193,5 +188,10 @@ public class TurnoDaoH2 implements IDao<Turno> {
             e.printStackTrace();
         }
         return list_turno;
+    }
+
+    @Override
+    public Turno buscar(String email) {
+        return null;
     }
 }

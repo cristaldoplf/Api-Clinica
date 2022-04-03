@@ -626,4 +626,689 @@
   2022-04-02 15:05:55 INFO  TurnoDaoH2:136 - Se crea una conexion a la base de datos en el metodo Actualizar
   2022-04-02 15:05:55 INFO  TurnoDaoH2:144 - El turno con el id null fue actualizado en la base de datos
   2022-04-02 15:05:55 INFO  TurnoDaoH2:145 - Se cierra la conexion a la base de datos en el metodo Actualizar
+  2022-04-03 06:52:38 INFO  TurnoDaoH2:24 - Se crea una conexion a la base de para generar las tablas y luego se cierra.
+  2022-04-03 06:59:20 INFO  TurnoDaoH2:24 - Se crea una conexion a la base de para generar las tablas y luego se cierra.
+  2022-04-03 06:59:42 INFO  TurnoDaoH2:24 - Se crea una conexion a la base de para generar las tablas y luego se cierra.
+  2022-04-03 07:16:00 INFO  OdontologoDaoH2:26 - Se crea una conexion a la base de datos en el metodo Guardar
+  2022-04-03 07:16:00 INFO  OdontologoDaoH2:38 - El odontologo con el id 1 fue guardado en la base de datos
+  2022-04-03 07:16:00 INFO  OdontologoDaoH2:39 - Se cierra la conexion a la base de datos en el metodo Guardar
+  2022-04-03 07:16:01 INFO  OdontologoDaoH2:26 - Se crea una conexion a la base de datos en el metodo Guardar
+  2022-04-03 07:16:01 INFO  OdontologoDaoH2:38 - El odontologo con el id 2 fue guardado en la base de datos
+  2022-04-03 07:16:01 INFO  OdontologoDaoH2:39 - Se cierra la conexion a la base de datos en el metodo Guardar
+  2022-04-03 07:16:02 INFO  OdontologoDaoH2:26 - Se crea una conexion a la base de datos en el metodo Guardar
+  2022-04-03 07:16:02 INFO  OdontologoDaoH2:38 - El odontologo con el id 3 fue guardado en la base de datos
+  2022-04-03 07:16:02 INFO  OdontologoDaoH2:39 - Se cierra la conexion a la base de datos en el metodo Guardar
+  2022-04-03 07:16:05 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 07:16:05 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 07:16:05 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 07:42:42 INFO  TurnoDaoH2:24 - Se crea una conexion a la base de para generar las tablas y luego se cierra.
+  2022-04-03 07:42:47 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 07:42:47 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 07:42:47 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 07:42:47 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 07:42:47 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 07:42:47 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 07:42:47 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 07:42:47 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 07:42:47 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 07:43:03 INFO  OdontologoDaoH2:26 - Se crea una conexion a la base de datos en el metodo Guardar
+  2022-04-03 07:43:03 INFO  OdontologoDaoH2:38 - El odontologo con el id 1 fue guardado en la base de datos
+  2022-04-03 07:43:03 INFO  OdontologoDaoH2:39 - Se cierra la conexion a la base de datos en el metodo Guardar
+  2022-04-03 07:43:03 INFO  OdontologoDaoH2:26 - Se crea una conexion a la base de datos en el metodo Guardar
+  2022-04-03 07:43:03 INFO  OdontologoDaoH2:38 - El odontologo con el id 2 fue guardado en la base de datos
+  2022-04-03 07:43:03 INFO  OdontologoDaoH2:39 - Se cierra la conexion a la base de datos en el metodo Guardar
+  2022-04-03 07:43:04 INFO  OdontologoDaoH2:26 - Se crea una conexion a la base de datos en el metodo Guardar
+  2022-04-03 07:43:04 INFO  OdontologoDaoH2:38 - El odontologo con el id 3 fue guardado en la base de datos
+  2022-04-03 07:43:04 INFO  OdontologoDaoH2:39 - Se cierra la conexion a la base de datos en el metodo Guardar
+  2022-04-03 07:43:05 INFO  OdontologoDaoH2:26 - Se crea una conexion a la base de datos en el metodo Guardar
+  2022-04-03 07:43:05 INFO  OdontologoDaoH2:38 - El odontologo con el id 4 fue guardado en la base de datos
+  2022-04-03 07:43:05 INFO  OdontologoDaoH2:39 - Se cierra la conexion a la base de datos en el metodo Guardar
+  2022-04-03 07:43:06 INFO  OdontologoDaoH2:26 - Se crea una conexion a la base de datos en el metodo Guardar
+  2022-04-03 07:43:06 INFO  OdontologoDaoH2:38 - El odontologo con el id 5 fue guardado en la base de datos
+  2022-04-03 07:43:06 INFO  OdontologoDaoH2:39 - Se cierra la conexion a la base de datos en el metodo Guardar
+  2022-04-03 07:43:08 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 07:43:08 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 07:43:08 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 07:43:08 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 07:43:08 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 07:43:08 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 07:43:08 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 07:43:08 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 07:43:08 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 07:44:11 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 07:44:11 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 07:44:11 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 07:44:11 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 07:44:11 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 07:44:11 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 07:44:11 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 07:44:11 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 07:44:11 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 07:44:19 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 07:44:19 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 07:44:19 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 07:44:19 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 07:44:19 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 07:44:19 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 07:44:19 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 07:44:19 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 07:44:19 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 07:44:20 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 07:44:20 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 07:44:20 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 07:44:20 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 07:44:20 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 07:44:20 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 07:44:20 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 07:44:20 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 07:44:20 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 07:44:27 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 07:44:27 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 07:44:27 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 07:44:27 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 07:44:27 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 07:44:27 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 07:44:27 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 07:44:27 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 07:44:27 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 07:45:17 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 07:45:17 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 07:45:17 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 07:45:17 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 07:45:17 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 07:45:17 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 07:45:17 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 07:45:17 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 07:45:17 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 07:45:19 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 07:45:19 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 07:45:19 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 07:45:19 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 07:45:19 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 07:45:19 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 07:45:19 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 07:45:19 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 07:45:19 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 07:49:51 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 07:49:51 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 07:49:51 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 07:49:52 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 07:49:52 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 07:49:52 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 07:50:31 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 07:50:31 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 07:50:31 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 07:50:31 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 07:50:31 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 07:50:31 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 07:52:25 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 07:52:25 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 07:52:25 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 07:52:27 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 07:52:27 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 07:52:27 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 07:54:10 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 07:54:10 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 07:54:10 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 07:54:10 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 07:54:10 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 07:54:10 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 07:54:13 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 07:54:13 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 07:54:13 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 07:54:27 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 07:54:27 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 07:54:27 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 07:55:46 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 07:55:46 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 07:55:46 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 07:55:51 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 07:55:51 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 07:55:51 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 07:55:55 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 07:55:55 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 07:55:55 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 07:55:57 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 07:55:57 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 07:55:57 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 07:56:15 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 07:56:15 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 07:56:15 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 07:56:23 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 07:56:23 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 07:56:23 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 07:56:26 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 07:56:26 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 07:56:26 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 07:56:27 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 07:56:27 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 07:56:27 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 07:56:28 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 07:56:28 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 07:56:28 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:01:13 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:01:13 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:01:13 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:01:15 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:01:15 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:01:15 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:01:23 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:01:23 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:01:23 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:01:25 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:01:25 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:01:25 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:01:45 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:01:45 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:01:45 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:01:45 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:01:45 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:01:45 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:01:46 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:01:46 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:01:46 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:04:23 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:04:23 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:04:23 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:04:26 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:04:26 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:04:26 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:05:06 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:05:06 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:05:06 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:05:52 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:05:52 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:05:52 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:06:31 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:06:31 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:06:31 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:06:52 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:06:52 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:06:52 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:06:53 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:06:53 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:06:53 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:10:18 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:10:18 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:10:18 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:10:30 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:10:30 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:10:30 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:10:35 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:10:35 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:10:35 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:10:36 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:10:36 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:10:36 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:11:11 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:11:11 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:11:11 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:11:25 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:11:25 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:11:25 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:11:25 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:11:25 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:11:25 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:11:25 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:11:25 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:11:25 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:11:35 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:11:35 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:11:35 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:11:36 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:11:36 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:11:36 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:11:53 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:11:53 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:11:53 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:12:06 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:12:06 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:12:06 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:12:06 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:12:06 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:12:06 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:12:25 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:12:25 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:12:25 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:24:01 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:24:01 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:24:01 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:24:54 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:24:54 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:24:54 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:24:56 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:24:56 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:24:56 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:25:39 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:25:39 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:25:39 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:32:17 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:32:17 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:32:17 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:32:19 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:32:19 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:32:19 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:32:48 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:32:48 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:32:48 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:32:50 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:32:50 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:32:50 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:32:54 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:32:54 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:32:54 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:33:05 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:33:05 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:33:05 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:33:14 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:33:14 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:33:14 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:33:27 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:33:27 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:33:27 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:33:52 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:33:52 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:33:52 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:33:52 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:33:52 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:33:52 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:33:52 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:33:52 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:33:52 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:34:51 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:34:51 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:34:51 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:34:52 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:34:52 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:34:52 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:35:12 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:35:12 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:35:12 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:35:38 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:35:38 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:35:38 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:35:41 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:35:41 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:35:41 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:35:56 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:35:56 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:35:56 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:36:02 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:36:02 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:36:02 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:36:08 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:36:08 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:36:08 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:36:09 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:36:09 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:36:09 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:36:31 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:36:31 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:36:31 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:36:32 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:36:32 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:36:32 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:37:14 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:37:14 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:37:14 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:37:16 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:37:16 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:37:16 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:37:31 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:37:31 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:37:31 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:37:33 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:37:33 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:37:33 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:39:36 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:39:36 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:39:36 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:39:46 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:39:46 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:39:46 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:39:48 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:39:48 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:39:48 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:39:53 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:39:53 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:39:53 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:40:02 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:40:02 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:40:02 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:40:03 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:40:03 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:40:03 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:40:27 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:40:27 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:40:27 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:40:31 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:40:31 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:40:31 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:40:47 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:40:47 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:40:47 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:40:50 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:40:50 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:40:50 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:41:48 INFO  TurnoDaoH2:24 - Se crea una conexion a la base de para generar las tablas y luego se cierra.
+  2022-04-03 08:41:53 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:41:53 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:41:53 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:41:59 INFO  OdontologoDaoH2:26 - Se crea una conexion a la base de datos en el metodo Guardar
+  2022-04-03 08:41:59 INFO  OdontologoDaoH2:38 - El odontologo con el id 1 fue guardado en la base de datos
+  2022-04-03 08:41:59 INFO  OdontologoDaoH2:39 - Se cierra la conexion a la base de datos en el metodo Guardar
+  2022-04-03 08:42:13 INFO  OdontologoDaoH2:26 - Se crea una conexion a la base de datos en el metodo Guardar
+  2022-04-03 08:42:13 INFO  OdontologoDaoH2:38 - El odontologo con el id 2 fue guardado en la base de datos
+  2022-04-03 08:42:13 INFO  OdontologoDaoH2:39 - Se cierra la conexion a la base de datos en el metodo Guardar
+  2022-04-03 08:42:24 INFO  OdontologoDaoH2:26 - Se crea una conexion a la base de datos en el metodo Guardar
+  2022-04-03 08:42:24 INFO  OdontologoDaoH2:38 - El odontologo con el id 3 fue guardado en la base de datos
+  2022-04-03 08:42:24 INFO  OdontologoDaoH2:39 - Se cierra la conexion a la base de datos en el metodo Guardar
+  2022-04-03 08:42:27 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:42:27 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:42:27 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:42:48 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:42:48 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:42:48 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:42:52 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:42:52 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:42:52 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:43:19 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:43:19 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:43:19 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:43:21 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:43:21 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:43:21 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:43:39 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:43:39 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:43:39 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:43:43 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:43:43 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:43:43 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:43:45 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:43:45 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:43:45 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:43:47 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:43:47 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:43:47 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:43:51 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:43:51 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:43:51 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:44:16 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:44:16 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:44:16 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:44:28 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:44:28 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:44:28 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:44:33 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:44:33 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:44:33 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:44:34 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:44:34 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:44:34 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:44:44 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:44:44 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:44:44 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:44:53 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:44:53 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:44:53 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:45:00 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:45:00 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:45:00 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:45:03 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:45:03 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:45:03 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:45:04 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:45:04 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:45:04 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:45:26 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:45:26 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:45:26 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:45:26 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:45:26 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:45:26 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:45:28 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:45:28 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:45:28 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:45:44 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:45:44 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:45:44 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:45:47 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:45:47 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:45:47 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:45:55 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:45:55 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:45:55 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:45:56 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:45:56 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:45:56 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:46:20 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:46:20 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:46:20 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:46:22 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:46:22 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:46:22 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:46:33 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:46:33 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:46:33 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:46:36 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:46:36 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:46:36 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:46:38 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:46:38 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:46:38 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:46:39 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:46:39 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:46:39 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:46:45 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:46:45 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:46:45 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:46:45 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:46:45 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:46:45 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:47:02 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:47:02 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:47:02 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:47:06 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:47:06 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:47:06 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:47:09 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:47:09 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:47:09 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:47:11 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:47:11 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:47:11 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:47:13 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:47:13 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:47:13 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:47:14 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:47:14 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:47:14 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:48:18 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:48:18 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:48:18 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:48:26 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:48:26 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:48:26 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:49:00 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:49:00 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:49:00 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:49:02 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:49:02 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:49:02 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:49:13 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:49:13 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:49:13 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:49:13 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:49:13 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:49:13 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:49:14 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:49:14 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:49:14 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:49:31 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:49:31 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:49:31 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:49:32 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:49:32 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:49:32 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:49:41 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:49:41 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:49:41 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:52:21 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:52:21 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:52:21 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 08:52:21 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 08:52:21 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 08:52:21 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 11:13:33 INFO  TurnoDaoH2:24 - Se crea una conexion a la base de para generar las tablas y luego se cierra.
+  2022-04-03 11:13:35 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 11:13:35 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 11:13:35 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 11:13:39 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 11:13:39 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 11:13:39 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 11:13:40 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 11:13:40 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 11:13:40 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 11:13:41 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 11:13:41 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 11:13:41 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 11:13:42 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 11:13:42 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 11:13:42 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 11:13:43 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 11:13:43 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 11:13:43 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 11:13:43 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 11:13:43 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 11:13:43 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 11:13:48 INFO  OdontologoDaoH2:26 - Se crea una conexion a la base de datos en el metodo Guardar
+  2022-04-03 11:13:48 INFO  OdontologoDaoH2:38 - El odontologo con el id 1 fue guardado en la base de datos
+  2022-04-03 11:13:48 INFO  OdontologoDaoH2:39 - Se cierra la conexion a la base de datos en el metodo Guardar
+  2022-04-03 11:13:50 INFO  OdontologoDaoH2:26 - Se crea una conexion a la base de datos en el metodo Guardar
+  2022-04-03 11:13:50 INFO  OdontologoDaoH2:38 - El odontologo con el id 2 fue guardado en la base de datos
+  2022-04-03 11:13:50 INFO  OdontologoDaoH2:39 - Se cierra la conexion a la base de datos en el metodo Guardar
+  2022-04-03 11:13:51 INFO  OdontologoDaoH2:26 - Se crea una conexion a la base de datos en el metodo Guardar
+  2022-04-03 11:13:51 INFO  OdontologoDaoH2:38 - El odontologo con el id 3 fue guardado en la base de datos
+  2022-04-03 11:13:51 INFO  OdontologoDaoH2:39 - Se cierra la conexion a la base de datos en el metodo Guardar
+  2022-04-03 11:13:54 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 11:13:54 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 11:13:54 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 11:14:24 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 11:14:24 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 11:14:24 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 11:14:25 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 11:14:25 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 11:14:25 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 11:14:32 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 11:14:32 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 11:14:32 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 11:14:33 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 11:14:33 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 11:14:33 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 11:14:36 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 11:14:36 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 11:14:36 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 11:14:36 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 11:14:36 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 11:14:36 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 13:02:29 INFO  TurnoDaoH2:24 - Se crea una conexion a la base de para generar las tablas y luego se cierra.
+  2022-04-03 13:02:31 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 13:02:31 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 13:02:31 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 13:02:34 INFO  OdontologoDaoH2:26 - Se crea una conexion a la base de datos en el metodo Guardar
+  2022-04-03 13:02:34 INFO  OdontologoDaoH2:38 - El odontologo con el id 1 fue guardado en la base de datos
+  2022-04-03 13:02:34 INFO  OdontologoDaoH2:39 - Se cierra la conexion a la base de datos en el metodo Guardar
+  2022-04-03 13:02:35 INFO  OdontologoDaoH2:26 - Se crea una conexion a la base de datos en el metodo Guardar
+  2022-04-03 13:02:35 INFO  OdontologoDaoH2:38 - El odontologo con el id 2 fue guardado en la base de datos
+  2022-04-03 13:02:35 INFO  OdontologoDaoH2:39 - Se cierra la conexion a la base de datos en el metodo Guardar
+  2022-04-03 13:02:37 INFO  OdontologoDaoH2:26 - Se crea una conexion a la base de datos en el metodo Guardar
+  2022-04-03 13:02:37 INFO  OdontologoDaoH2:38 - El odontologo con el id 3 fue guardado en la base de datos
+  2022-04-03 13:02:37 INFO  OdontologoDaoH2:39 - Se cierra la conexion a la base de datos en el metodo Guardar
+  2022-04-03 13:02:39 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 13:02:39 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 13:02:39 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 13:02:42 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 13:02:42 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 13:02:42 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 13:18:38 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 13:18:38 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 13:18:38 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 13:19:17 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 13:19:17 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 13:19:17 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 13:19:33 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 13:19:33 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 13:19:33 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 13:20:45 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 13:20:45 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 13:20:45 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 13:20:48 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 13:20:48 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 13:20:48 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 13:21:39 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 13:21:39 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 13:21:39 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 13:21:56 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 13:21:56 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 13:21:56 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 13:22:02 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 13:22:02 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 13:22:02 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 13:22:16 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 13:22:16 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 13:22:16 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 13:22:54 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 13:22:54 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 13:22:54 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 13:23:10 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 13:23:10 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 13:23:10 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 13:23:33 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 13:23:33 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 13:23:33 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 13:23:58 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 13:23:58 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 13:23:58 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 13:24:30 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 13:24:30 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 13:24:30 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 13:25:02 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 13:25:02 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 13:25:02 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 13:25:41 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 13:25:41 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 13:25:41 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 13:26:19 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 13:26:19 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 13:26:19 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 13:26:41 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 13:26:41 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 13:26:41 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 13:26:49 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 13:26:49 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 13:26:49 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 13:26:54 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 13:26:54 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 13:26:54 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 13:27:01 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 13:27:01 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 13:27:01 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 13:27:36 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 13:27:36 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 13:27:36 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 13:28:22 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 13:28:22 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 13:28:22 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 13:38:09 INFO  OdontologoDaoH2:26 - Se crea una conexion a la base de datos en el metodo Guardar
+  2022-04-03 13:38:09 INFO  OdontologoDaoH2:38 - El odontologo con el id 4 fue guardado en la base de datos
+  2022-04-03 13:38:09 INFO  OdontologoDaoH2:39 - Se cierra la conexion a la base de datos en el metodo Guardar
+  2022-04-03 13:38:15 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 13:38:15 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 13:38:15 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
+  2022-04-03 13:38:34 INFO  OdontologoDaoH2:26 - Se crea una conexion a la base de datos en el metodo Guardar
+  2022-04-03 13:38:34 INFO  OdontologoDaoH2:38 - El odontologo con el id 5 fue guardado en la base de datos
+  2022-04-03 13:38:34 INFO  OdontologoDaoH2:39 - Se cierra la conexion a la base de datos en el metodo Guardar
+  2022-04-03 13:38:35 INFO  OdontologoDaoH2:166 - Se crea una conexion a la base de datos en el metodo buscarTodos
+  2022-04-03 13:38:35 INFO  OdontologoDaoH2:181 - Fue requerida la lista de odontologos a la base de datos buscarTodos
+  2022-04-03 13:38:35 INFO  OdontologoDaoH2:182 - Se cierra la conexion a la base de datos
   

@@ -1,11 +1,15 @@
 import React, { Component } from "react";
 import ListaOdontologos from "./ListaOdontologos";
+import CrearOdontologo from "./CrearOdontologo";
 
 const Design = () => {
 
   return (
     <>
-      <h1>Odontologos</h1>
+      
+      <CrearOdontologo/>
+      <hr/>
+      <h2>Lista de Odontologos</h2>
       <ListaOdontologos/>
     </>
   )

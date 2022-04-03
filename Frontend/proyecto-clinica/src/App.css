@@ -52,3 +52,23 @@
     transform: rotate(360deg);
   }
 }
+
+label{
+  font-size: 1.3rem;
+}
+
+input[type=text]{
+  display: flex;
+  width: 200px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: white;
+}
+
+input[type=button]{
+  margin-bottom: 10px;
+  margin-top: 10px;
+  padding: 10px 30px;
+  background-color: white;
+}
+
